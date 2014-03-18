@@ -1,5 +1,5 @@
-MCPaths
-=======
+MCPath
+======
 
 A library which can be used to find paths around the minecraft world.  
 All issues, source code, and repository functions are handled by [GitHub](https://github.com/).  
@@ -10,8 +10,8 @@ Pull Requests:
 
 Guidelines:
 
-1. You should start with an issue found in the MCPaths issue tracker, and reference it in the name of the PR.
-2. Make sure this change is not too specific. MCPaths has the goal of leaving all preferential additions to addons created by separate developers.
+1. You should start with an issue found in the MCPath issue tracker, and reference it in the name of the PR.
+2. Make sure this change is not too specific. MCPath has the goal of leaving all preferential additions to addons created by separate developers.
 3. Make sure you test your changes, and provide any programs or services required to do so in the PR.
 
 Code requirements:
@@ -23,4 +23,4 @@ Code requirements:
 Licensing:
 ----------
 
-MCPaths is licensed under GPLv3, which can be found in [LICENSE.txt](https://github.com/JamesNorris/MCPaths/blob/master/LICENSE.txt).
+MCPath is licensed under GPLv3, which can be found in [LICENSE.txt](https://github.com/JamesNorris/MCPath/blob/master/LICENSE.txt).
